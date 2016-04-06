@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/21259/jjvenky/SIDNO.svg)](https://zenodo.org/badge/latestdoi/21259/jjvenky/SIDNO)
+
 SIDNO
 =====
 
